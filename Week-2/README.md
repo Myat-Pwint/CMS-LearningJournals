@@ -24,6 +24,7 @@ In response to the unique preferences and needs of older individuals, we are lau
 During this week's practical, I created a website for the clothing business using Joomla with the help of YouTube tutorial videos and its official documentation as well. My website is mainly aimed at selling clothes from several clothing brands - practical 1 was targeted at young customers while now Practical 2 is for older people.
 
 https://www.youtube.com/watch?v=h5VZwTLdgdM&t=565s 
+
 https://docs.joomla.org/Special:MyLanguage/Adding_a_new_article 
 
 **Estimated Hours:**
