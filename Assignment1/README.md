@@ -60,9 +60,30 @@ Within the next few months, Fiesta Bloom aims to successfully launch and integra
 
 ## Learning Journal for Assignment 1
 
-**Assignment 1: Learning Journey**
+**Assignment 1: Learning Journal**
 
-**Learning Journey for WordPress Website:**
+**Learning Journal for Joomla Website:**
+
+**Learning Activities & Resources:**
+
+- Completed introductory tutorials for Joomla on (https://youtu.be/I0MBI9Qz-S0?si=aLBy4qpbb_Heag-5)
+- Explored the official [Joomla Documentation](https://docs.joomla.org/) for a comprehensive understanding
+- Installed and created Joomla website watching (https://youtu.be/h5VZwTLdgdM?si=lwgbiI5EdaB43AS-)
+
+**Estimated Hours:**
+- 20 hours
+
+**Content Insights:**
+
+At this time, my focus was on understanding the basics of Joomla. The tutorials from JoomlaShack provided a solid introduction to setting up and customizing a website using Joomla. The official Joomla Documentation proved valuable, offering detailed insights into Joomla's unique features. The local installation of Joomla facilitated hands-on learning and experimentation.
+
+**Career/Employability/Learning Insights:**
+
+Building a strong foundation in Joomla basics is essential for effective website development. The combination of tutorials and practical application has equipped me with the skills needed to navigate Joomla's interface and understand its unique features. This foundational knowledge will be crucial as I progress to more advanced features in the subsequent weeks of this assignment.
+
+---
+
+**Learning Journal for WordPress Website:**
 
 **Learning Activities & Resources:**
 
@@ -81,24 +102,3 @@ During this time, I immersed myself in the basics of WordPress. The tutorials fr
 **Career/Employability/Learning Insights:**
 
 Understanding the fundamentals of WordPress is critical for efficient website development. The combination of tutorials and hands-on practice enhanced my familiarity with the platform. This foundational knowledge will be invaluable as I progress to more advanced features in subsequent weeks.
-
----
-
-**Learning Journey for Joomla Website:**
-
-**Learning Activities & Resources:**
-
-- Completed introductory tutorials for Joomla on (https://youtu.be/I0MBI9Qz-S0?si=aLBy4qpbb_Heag-5)
-- Explored the official [Joomla Documentation](https://docs.joomla.org/) for a comprehensive understanding
-- Installed and created Joomla website watching (https://youtu.be/h5VZwTLdgdM?si=lwgbiI5EdaB43AS-)
-
-**Estimated Hours:**
-- 20 hours
-
-**Content Insights:**
-
-At this time, my focus was on understanding the basics of Joomla. The tutorials from JoomlaShack provided a solid introduction to setting up and customizing a website using Joomla. The official Joomla Documentation proved valuable, offering detailed insights into Joomla's unique features. The local installation of Joomla facilitated hands-on learning and experimentation.
-
-**Career/Employability/Learning Insights:**
-
-Building a strong foundation in Joomla basics is essential for effective website development. The combination of tutorials and practical application has equipped me with the skills needed to navigate Joomla's interface and understand its unique features. This foundational knowledge will be crucial as I progress to more advanced features in the subsequent weeks of this assignment.
