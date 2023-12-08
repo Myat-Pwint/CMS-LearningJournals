@@ -3,7 +3,7 @@
 Name: Myat Pwint Phyu
 Student ID: 14318723
 
-## Creating Website with Joomla 
+## Creating a Website with Joomla 
 
 **Business Plan Explanation for CollaborativeHub Website**
 
@@ -65,8 +65,7 @@ Within the next few months, Fiesta Bloom aims to successfully launch and integra
 
 **Learning Activities & Resources:**
 
-- Completed introductory tutorials for WordPress on [WordPress Beginner](https://www.wpbeginner.com/guides/)
-- Explored the official [WordPress Codex](https://codex.wordpress.org/) for detailed documentation
+- Completed introductory tutorials for WordPress on (https://youtu.be/FBSxUszzVhA?si=6qk0PaejBfjHM5Mc)
 - Installed and configured WordPress locally for practical application
 
 **Estimated Hours:**
