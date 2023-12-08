@@ -65,7 +65,9 @@ Within the next few months, Fiesta Bloom aims to successfully launch and integra
 
 **Learning Activities & Resources:**
 
-- Completed introductory tutorials for WordPress on (https://youtu.be/FBSxUszzVhA?si=6qk0PaejBfjHM5Mc)
+- Completed introductory tutorials for WordPress on (https://youtu.be/O79pJ7qXwoE?si=f4mboSZ3UQyI2zbe)
+- Created WordPress website using other hosting site tutorials: (https://youtu.be/FBSxUszzVhA?si=6qk0PaejBfjHM5Mc)
+- (https://youtu.be/Vk6GpPbPVdM?si=SNXEEOWlKMpNsQfM)
 - Installed and configured WordPress locally for practical application
 
 **Estimated Hours:**
@@ -85,16 +87,16 @@ Understanding the fundamentals of WordPress is critical for efficient website de
 
 **Learning Activities & Resources:**
 
-- Completed introductory tutorials for Joomla on [JoomlaShack](https://www.joomlashack.com/)
+- Completed introductory tutorials for Joomla on (https://youtu.be/I0MBI9Qz-S0?si=aLBy4qpbb_Heag-5)
 - Explored the official [Joomla Documentation](https://docs.joomla.org/) for a comprehensive understanding
-- Installed and configured Joomla locally for practical application
+- Installed and created Joomla website watching (https://youtu.be/h5VZwTLdgdM?si=lwgbiI5EdaB43AS-)
 
 **Estimated Hours:**
 - 20 hours
 
 **Content Insights:**
 
-In this time, my focus was on understanding the basics of Joomla. The tutorials from JoomlaShack provided a solid introduction to setting up and customizing a website using Joomla. The official Joomla Documentation proved to be a valuable resource, offering detailed insights into Joomla's unique features. The local installation of Joomla facilitated hands-on learning and experimentation.
+At this time, my focus was on understanding the basics of Joomla. The tutorials from JoomlaShack provided a solid introduction to setting up and customizing a website using Joomla. The official Joomla Documentation proved valuable, offering detailed insights into Joomla's unique features. The local installation of Joomla facilitated hands-on learning and experimentation.
 
 **Career/Employability/Learning Insights:**
 
