@@ -43,3 +43,40 @@ Engaging with WordPress tutorials and experimenting with various features provid
 **Career/Employability/Learning Insights:**
 
 This week's focus on WordPress advanced features reinforced the importance of flexibility and adaptability in website development. Gaining hands-on experience with plugins and themes expanded my skill set and broadened my ability to create websites tailored to specific needs and functionalities.
+
+# Group Interviews
+
+I interviewed a total of 10 individuals and identified four who met the criteria and standards for our group project. The main focus during the interviews was to assess their specialties, and skill sets relevant to the group project, and to gain insights into their experiences with assignments and lessons learned so far.
+
+The selection process involved delving into their technical expertise, collaboration skills, and how well they applied lessons from previous assignments. The goal was to ensure that the chosen group members possessed the necessary skills and knowledge to make meaningful contributions to the success of the project. The final group is made up of individuals with diverse strengths and experiences, forming a well-rounded team prepared to tackle the challenges of our upcoming project.
+
+## Group Formation and Results 
+
+**Kaung Sat Paing (14399033)**
+**Shwe Moe Thant (14228423)**
+**Shin Thant Aung (14191080)**
+**Zar Chi Oo (14211290)**
+
+**Kaung Sat Paing (14399033)**
+  - **Working Style:** Demonstrates a keen and meticulous approach to tasks, ensuring precision and accuracy in front-end development.
+  - **Availability:** Excels in generating creative ideas during discussions, offering valuable insights to the team.
+  - **Skill Set:** Specializes in HTML, CSS, and Python, with practical experience gained from assignments and other group projects.
+  - **Shared Expectations:** Anticipated to contribute innovative ideas to enhance the group's tasks in creating user-friendly websites and maintaining the group communication level.
+    
+**Shwe Moe Thant (14228423)**
+   - **Working Style:** Exhibits an exact and careful working style, ensuring precision and accuracy.
+   - **Availability:** Excels in generating bright and innovative ideas during discussions, providing valuable insights.
+   - **Skill Set:** Excels in utilizing Figma and other programming languages such as HTML, CSS and Python.
+   - **Shared Expectations:** Anticipated to contribute bright and innovative ideas to the group's tasks.
+
+**Shin Thant Aung (14191080)**
+   - **Working Style:** Very methodical and detail-oriented in approaching tasks.
+   - **Availability:** Consistently available and responsive for discussions or collaborative work.
+   - **Skill Set:** Demonstrates a high level of dedication and commitment, ensuring efficient task completion.
+   - **Shared Expectations:** Anticipated to contribute significantly to the technical aspects of the project, ensuring accuracy and precision in execution.
+
+**Zar Chi Oo (14211290)**
+   - **Working Style:** Meticulous and thorough in handling tasks.
+   - **Availability:** Showcases strong presentation skills, enhancing the group's communication abilities
+   - **Skill Set:** Generally performs tasks at a consistent pace and is skilled in efficiently creating comprehensive reports and programming languages.
+   - **Shared Expectations:** Expected to excel as a presenter during project presentations and writing codes.
