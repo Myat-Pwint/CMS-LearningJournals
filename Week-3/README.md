@@ -28,7 +28,7 @@ A distinctive feature of Maria's Closet is the implementation of a Virtual Fitti
 
 **Learning Activities & Resources:**
 
-1. Completed WordPress tutorials on basic website setup and customization.
+1. Completed WordPress tutorials on basic website setup and customization. (https://youtu.be/FBSxUszzVhA?si=Z7zZG0_lK2AnBW8C)
 2. Explored advanced features in the WordPress dashboard.
 3. Installed and configured relevant plugins to enhance website functionality.
 4. Experimented with different themes to understand their impact on the website's appearance.
@@ -53,8 +53,11 @@ The selection process involved delving into their technical expertise, collabora
 ## Group Formation and Results 
 
 **Kaung Sat Paing (14399033)**
+
 **Shwe Moe Thant (14228423)**
+
 **Shin Thant Aung (14191080)**
+
 **Zar Chi Oo (14211290)**
 
 **Kaung Sat Paing (14399033)**
