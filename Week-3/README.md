@@ -60,6 +60,8 @@ The selection process involved delving into their technical expertise, collabora
 
 **Zar Chi Oo (14211290)**
 
+## Interview Summary 
+
 **Kaung Sat Paing (14399033)**
   - **Working Style:** Demonstrates a keen and meticulous approach to tasks, ensuring precision and accuracy in front-end development.
   - **Availability:** Excels in generating creative ideas during discussions, offering valuable insights to the team.
