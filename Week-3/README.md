@@ -1,5 +1,9 @@
 # Learning Journal for Week 3 
 
+Name: Myat Pwint Phyu
+
+Student ID: 14318723
+
 ## Creating a Website with WordPress
 
 **Business Plan Explanation for "Maria's Closet":**
