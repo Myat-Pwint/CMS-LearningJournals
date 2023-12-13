@@ -2,7 +2,7 @@
 
 ## Learning Activities & Resources
 
-During this week's practical, I initiated on creating an account on WordPress using the localhost installation. To achieve this, I relied on the Lecturer's institutions, and YouTube tutorial videos and referred to other documentation to navigate the process effectively.
+During this week's practical session, I took the initiative to set up an account on WordPress through the localhost installation. To accomplish this task, I utilized resources provided by the lecturer's guidance, skimming over learning materials for comprehensive insights. Additionally, I watched the YouTube tutorial videos for visual guidance to enhance my understanding. Furthermore, I explored and read various documentation sources apart from the lecture materials, ensuring a thorough and effective navigation of the account creation process on WordPress.
 
 **XAMPP my SQL error fixation: (https://youtu.be/84IOtc05TuA?si=E7z8QZKYeS4OTEsZ)**
 
@@ -14,7 +14,7 @@ The task consumed approximately 1 and half hours of my time. I encountered chall
 
 ## Content Insights
 
-Throughout this practical, my focus was on learning the essentials of opening WordPress and creating an account via the localhost installation. The process encountered challenges, primarily related to file name changes during unzipping and conflicts with other database applications running simultaneously. After watching tutorial videos and engaging in discussions with classmates facing similar issues, a solution was found by identifying and stopping conflicting applications in the Windows "services" software. This allowed the successful creation of a new database in phpMyAdmin, establishing a connection with WordPress.
+Throughout this practical, my focus was on learning the essentials of opening WordPress and creating an account via the localhost installation. The process encountered challenges, primarily related to file name changes during unzipping and conflicts with other database applications running simultaneously. After watching tutorial videos and engaging in discussions with classmates facing similar issues, a solution was found by identifying and stopping conflicting applications in the Windows "services" software. This allowed the creation of a new database in phpMyAdmin, establishing a connection with WordPress.
 
 ## Career/Employability/Learning Insights
 
