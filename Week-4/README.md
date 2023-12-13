@@ -2,7 +2,7 @@
 
 ## Learning Activities & Resources
 
-During this week's practical, I embarked on creating an account on WordPress using the localhost installation. To achieve this, I relied on the Lecturer's institutions, and YouTube tutorial videos and referred to other documentation to navigate the process effectively.
+During this week's practical, I initiated on creating an account on WordPress using the localhost installation. To achieve this, I relied on the Lecturer's institutions, and YouTube tutorial videos and referred to other documentation to navigate the process effectively.
 
 **XAMPP my SQL error fixation: (https://youtu.be/84IOtc05TuA?si=E7z8QZKYeS4OTEsZ)**
 
