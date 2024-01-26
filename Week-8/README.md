@@ -16,8 +16,6 @@ Collectively, we invested a substantial amount of time, totaling approximately 1
 
 ## Content Insights
 
-**Content Insights:**
-
 Insights into GitHub and Agile workflow were gained during this learning journey, offering valuable perspectives on practical aspects. Notable observations include:
 
 - A deeper grasp of vital roles and responsibilities within a team, ensuring tasks are distributed effectively.
